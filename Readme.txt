@@ -2,7 +2,7 @@ Author: Konstantinos Prousalis
 Email: kprousalis@csd.auth.gr
 
 PURPOSE
-This program is designed to detect imperfect diagonal lines for dot matrix
+This program is designed to detect perfect or imperfect diagonal lines for dot matrix
 plots. As accepted files are only fasta format.
 Only pairwise alignment is allowed for different sequences covering the 
 most common patterns:
